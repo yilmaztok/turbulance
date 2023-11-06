@@ -1,5 +1,5 @@
-<?php
-echo "bende buradayım";
+<?php 
+ 
 echo "buradaki degisikliklere bakacağım.";
 echo "bakak";
 ?>
